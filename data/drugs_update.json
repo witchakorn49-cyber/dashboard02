@@ -1,0 +1,3529 @@
+{
+  "meta": {
+    "title": "บัญชีรายการยาของร้านยาจำลอง",
+    "version": "2.0",
+    "updated": "2026-11-18",
+    "note": "ชื่อสามัญ ความแรง รูปแบบยา และรหัส ATC เป็นข้อมูลจริง (รหัส ATC ตรวจกับ WHO ATC/DDD Index ฉบับ 2026); reorder_level เป็นนโยบายสมมติของร้าน | เวอร์ชัน 2.0: เพิ่ม 250 รายการและ 2 หมวดใหม่ ชื่อสามัญ ความแรง และรหัส ATC ของรายการที่เพิ่มอ้างอิงตาม WHO ATC/DDD Index แต่ยังไม่ได้ตรวจทานทีละรายการ ควรสุ่มตรวจก่อนนำไปใช้กับงานจริง",
+    "categories": [
+      "แก้ปวดและต้านการอักเสบ",
+      "ยาปฏิชีวนะ",
+      "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "หัวใจและความดันโลหิต",
+      "เบาหวาน",
+      "ไขมันในเลือด",
+      "ทางเดินอาหาร",
+      "แก้แพ้",
+      "ทางเดินหายใจ",
+      "ผิวหนัง",
+      "ตาและหู",
+      "วิตามินและเกลือแร่",
+      "ระบบประสาท",
+      "ข้อและกล้ามเนื้อ",
+      "ฮอร์โมนและต่อมไร้ท่อ",
+      "ทางเดินปัสสาวะและต่อมลูกหมาก"
+    ],
+    "count": 350
+  },
+  "items": [
+    {
+      "sku": "PARA500",
+      "generic_name": "Paracetamol",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BE01",
+      "reorder_level": 500
+    },
+    {
+      "sku": "PARA120S",
+      "generic_name": "Paracetamol",
+      "strength": "120 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BE01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "IBU400",
+      "generic_name": "Ibuprofen",
+      "strength": "400 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "IBU100S",
+      "generic_name": "Ibuprofen",
+      "strength": "100 mg/5 mL, 60 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "NAPRO250",
+      "generic_name": "Naproxen",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "DICLO25",
+      "generic_name": "Diclofenac sodium",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AB05",
+      "reorder_level": 200
+    },
+    {
+      "sku": "DICLOGEL",
+      "generic_name": "Diclofenac diethylamine",
+      "strength": "1%, 30 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M02AA15",
+      "reorder_level": 10
+    },
+    {
+      "sku": "MEFE250",
+      "generic_name": "Mefenamic acid",
+      "strength": "250 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AG01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "CELE200",
+      "generic_name": "Celecoxib",
+      "strength": "200 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AH01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PARA325",
+      "generic_name": "Paracetamol",
+      "strength": "325 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BE01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "PARA250S",
+      "generic_name": "Paracetamol",
+      "strength": "250 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BE01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "PARA60D",
+      "generic_name": "Paracetamol",
+      "strength": "60 mg/0.6 mL, 15 mL",
+      "dosage_form": "oral drops",
+      "unit": "bottle",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BE01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "IBU200",
+      "generic_name": "Ibuprofen",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "IBU600",
+      "generic_name": "Ibuprofen",
+      "strength": "600 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "NAPRO500",
+      "generic_name": "Naproxen",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AE02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DICLO50",
+      "generic_name": "Diclofenac sodium",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AB05",
+      "reorder_level": 200
+    },
+    {
+      "sku": "MEFE500",
+      "generic_name": "Mefenamic acid",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AG01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PIRO10",
+      "generic_name": "Piroxicam",
+      "strength": "10 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AC01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "MELOX7",
+      "generic_name": "Meloxicam",
+      "strength": "7.5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AC06",
+      "reorder_level": 100
+    },
+    {
+      "sku": "MELOX15",
+      "generic_name": "Meloxicam",
+      "strength": "15 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AC06",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ETORI90",
+      "generic_name": "Etoricoxib",
+      "strength": "90 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AH05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ETORI120",
+      "generic_name": "Etoricoxib",
+      "strength": "120 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AH05",
+      "reorder_level": 30
+    },
+    {
+      "sku": "KETOP-G",
+      "generic_name": "Ketoprofen",
+      "strength": "2.5%, 30 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M02AA10",
+      "reorder_level": 10
+    },
+    {
+      "sku": "PIRO-G",
+      "generic_name": "Piroxicam",
+      "strength": "0.5%, 30 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M02AA07",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ASA300",
+      "generic_name": "Aspirin",
+      "strength": "300 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "N02BA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "INDO25",
+      "generic_name": "Indomethacin",
+      "strength": "25 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "แก้ปวดและต้านการอักเสบ",
+      "atc_code": "M01AB01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AMOX500",
+      "generic_name": "Amoxicillin",
+      "strength": "500 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CA04",
+      "reorder_level": 300
+    },
+    {
+      "sku": "AMOX125S",
+      "generic_name": "Amoxicillin",
+      "strength": "125 mg/5 mL, 60 mL",
+      "dosage_form": "dry syrup",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CA04",
+      "reorder_level": 10
+    },
+    {
+      "sku": "AMCLAV875",
+      "generic_name": "Amoxicillin/Clavulanic acid",
+      "strength": "875/125 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CR02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DICLOX250",
+      "generic_name": "Dicloxacillin",
+      "strength": "250 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CF01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "CEPH500",
+      "generic_name": "Cephalexin",
+      "strength": "500 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DB01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "AZI250",
+      "generic_name": "Azithromycin",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA10",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DOXY100",
+      "generic_name": "Doxycycline",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01AA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "NORF400",
+      "generic_name": "Norfloxacin",
+      "strength": "400 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01MA06",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CIPRO500",
+      "generic_name": "Ciprofloxacin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01MA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "COTRI480",
+      "generic_name": "Sulfamethoxazole/Trimethoprim",
+      "strength": "400/80 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01EE01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "NITRO100",
+      "generic_name": "Nitrofurantoin",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01XE01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AMOX250",
+      "generic_name": "Amoxicillin",
+      "strength": "250 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CA04",
+      "reorder_level": 200
+    },
+    {
+      "sku": "AMOX250S",
+      "generic_name": "Amoxicillin",
+      "strength": "250 mg/5 mL, 60 mL",
+      "dosage_form": "dry syrup",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CA04",
+      "reorder_level": 10
+    },
+    {
+      "sku": "AMCLAV625",
+      "generic_name": "Amoxicillin/Clavulanic acid",
+      "strength": "500/125 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CR02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AMCLAV228S",
+      "generic_name": "Amoxicillin/Clavulanic acid",
+      "strength": "200/28.5 mg/5 mL, 70 mL",
+      "dosage_form": "dry syrup",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CR02",
+      "reorder_level": 5
+    },
+    {
+      "sku": "DICLOX500",
+      "generic_name": "Dicloxacillin",
+      "strength": "500 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CF01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PENV250",
+      "generic_name": "Phenoxymethylpenicillin",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01CE02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CEPH125S",
+      "generic_name": "Cephalexin",
+      "strength": "125 mg/5 mL, 60 mL",
+      "dosage_form": "dry syrup",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DB01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CEFAD500",
+      "generic_name": "Cefadroxil",
+      "strength": "500 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DB05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CEFUR250",
+      "generic_name": "Cefuroxime axetil",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DC02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CEFIX100",
+      "generic_name": "Cefixime",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DD08",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CEFDI100",
+      "generic_name": "Cefdinir",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01DD15",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AZI500",
+      "generic_name": "Azithromycin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA10",
+      "reorder_level": 30
+    },
+    {
+      "sku": "AZI200S",
+      "generic_name": "Azithromycin",
+      "strength": "200 mg/5 mL, 15 mL",
+      "dosage_form": "dry syrup",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA10",
+      "reorder_level": 5
+    },
+    {
+      "sku": "CLARI250",
+      "generic_name": "Clarithromycin",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA09",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CLARI500",
+      "generic_name": "Clarithromycin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA09",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ROXI150",
+      "generic_name": "Roxithromycin",
+      "strength": "150 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FA06",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CLIN150",
+      "generic_name": "Clindamycin",
+      "strength": "150 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FF01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CLIN300",
+      "generic_name": "Clindamycin",
+      "strength": "300 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01FF01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "OFLO200",
+      "generic_name": "Ofloxacin",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01MA01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LEVO500",
+      "generic_name": "Levofloxacin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01MA12",
+      "reorder_level": 60
+    },
+    {
+      "sku": "COTRI-S",
+      "generic_name": "Sulfamethoxazole/Trimethoprim",
+      "strength": "200/40 mg/5 mL, 60 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01EE01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "FOSFO3",
+      "generic_name": "Fosfomycin",
+      "strength": "3 g",
+      "dosage_form": "powder for oral solution",
+      "unit": "sachet",
+      "category": "ยาปฏิชีวนะ",
+      "atc_code": "J01XX01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "METRO400",
+      "generic_name": "Metronidazole",
+      "strength": "400 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P01AB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FLUCO150",
+      "generic_name": "Fluconazole",
+      "strength": "150 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J02AC01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "CLOTRI-C",
+      "generic_name": "Clotrimazole",
+      "strength": "1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01AC01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "KETO-C",
+      "generic_name": "Ketoconazole",
+      "strength": "2%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01AC08",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ACYC400",
+      "generic_name": "Acyclovir",
+      "strength": "400 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J05AB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ACYC-C",
+      "generic_name": "Acyclovir",
+      "strength": "5%, 5 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D06BB03",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ALBEN200",
+      "generic_name": "Albendazole",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CA03",
+      "reorder_level": 50
+    },
+    {
+      "sku": "MEBEN100",
+      "generic_name": "Mebendazole",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CA01",
+      "reorder_level": 50
+    },
+    {
+      "sku": "NYST-S",
+      "generic_name": "Nystatin",
+      "strength": "100,000 U/mL, 12 mL",
+      "dosage_form": "oral suspension",
+      "unit": "bottle",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "A07AA02",
+      "reorder_level": 5
+    },
+    {
+      "sku": "METRO200",
+      "generic_name": "Metronidazole",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P01AB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "TINI500",
+      "generic_name": "Tinidazole",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P01AB02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "FLUCO50",
+      "generic_name": "Fluconazole",
+      "strength": "50 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J02AC01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "FLUCO200",
+      "generic_name": "Fluconazole",
+      "strength": "200 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J02AC01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "ITRA100",
+      "generic_name": "Itraconazole",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J02AC02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "TERBI250",
+      "generic_name": "Terbinafine",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01BA02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "TERBI-C",
+      "generic_name": "Terbinafine",
+      "strength": "1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01AE15",
+      "reorder_level": 10
+    },
+    {
+      "sku": "MICO-C",
+      "generic_name": "Miconazole",
+      "strength": "2%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01AC02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "MICO-OG",
+      "generic_name": "Miconazole",
+      "strength": "2%, 15 g",
+      "dosage_form": "oral gel",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "A01AB09",
+      "reorder_level": 5
+    },
+    {
+      "sku": "GRISEO500",
+      "generic_name": "Griseofulvin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01BA01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "KETO-SH",
+      "generic_name": "Ketoconazole",
+      "strength": "2%, 100 mL",
+      "dosage_form": "shampoo",
+      "unit": "bottle",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "D01AC08",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CLOTRI-VT",
+      "generic_name": "Clotrimazole",
+      "strength": "100 mg",
+      "dosage_form": "vaginal tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "G01AF02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "ACYC200",
+      "generic_name": "Acyclovir",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J05AB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ACYC800",
+      "generic_name": "Acyclovir",
+      "strength": "800 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J05AB01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "VALACY500",
+      "generic_name": "Valacyclovir",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J05AB11",
+      "reorder_level": 30
+    },
+    {
+      "sku": "OSELT75",
+      "generic_name": "Oseltamivir",
+      "strength": "75 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "J05AH02",
+      "reorder_level": 20
+    },
+    {
+      "sku": "ALBEN400",
+      "generic_name": "Albendazole",
+      "strength": "400 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CA03",
+      "reorder_level": 50
+    },
+    {
+      "sku": "ALBEN-S",
+      "generic_name": "Albendazole",
+      "strength": "200 mg/5 mL, 10 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CA03",
+      "reorder_level": 10
+    },
+    {
+      "sku": "PRAZI600",
+      "generic_name": "Praziquantel",
+      "strength": "600 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02BA01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "IVER6",
+      "generic_name": "Ivermectin",
+      "strength": "6 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CF01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "PYRAN125",
+      "generic_name": "Pyrantel pamoate",
+      "strength": "125 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P02CC01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "PERM-C",
+      "generic_name": "Permethrin",
+      "strength": "5%, 30 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ต้านเชื้อรา ไวรัส และพยาธิ",
+      "atc_code": "P03AC04",
+      "reorder_level": 10
+    },
+    {
+      "sku": "AMLO5",
+      "generic_name": "Amlodipine",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08CA01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "AMLO10",
+      "generic_name": "Amlodipine",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08CA01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ENAL5",
+      "generic_name": "Enalapril",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "LOSAR50",
+      "generic_name": "Losartan",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "HCTZ25",
+      "generic_name": "Hydrochlorothiazide",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C03AA03",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ATEN50",
+      "generic_name": "Atenolol",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AB03",
+      "reorder_level": 200
+    },
+    {
+      "sku": "PROP10",
+      "generic_name": "Propranolol",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AA05",
+      "reorder_level": 200
+    },
+    {
+      "sku": "FURO40",
+      "generic_name": "Furosemide",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C03CA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "SPIRO25",
+      "generic_name": "Spironolactone",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C03DA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ISDN5",
+      "generic_name": "Isosorbide dinitrate",
+      "strength": "5 mg",
+      "dosage_form": "sublingual tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C01DA08",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ASA81",
+      "generic_name": "Aspirin",
+      "strength": "81 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "B01AC06",
+      "reorder_level": 300
+    },
+    {
+      "sku": "CLOP75",
+      "generic_name": "Clopidogrel",
+      "strength": "75 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "B01AC04",
+      "reorder_level": 100
+    },
+    {
+      "sku": "WARF3",
+      "generic_name": "Warfarin",
+      "strength": "3 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "B01AA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ENAL10",
+      "generic_name": "Enalapril",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ENAL20",
+      "generic_name": "Enalapril",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LISI10",
+      "generic_name": "Lisinopril",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "RAMI5",
+      "generic_name": "Ramipril",
+      "strength": "5 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PERI5",
+      "generic_name": "Perindopril",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09AA04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LOSAR100",
+      "generic_name": "Losartan",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "VALS80",
+      "generic_name": "Valsartan",
+      "strength": "80 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CANDE8",
+      "generic_name": "Candesartan",
+      "strength": "8 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA06",
+      "reorder_level": 60
+    },
+    {
+      "sku": "TELMI40",
+      "generic_name": "Telmisartan",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA07",
+      "reorder_level": 60
+    },
+    {
+      "sku": "IRBE150",
+      "generic_name": "Irbesartan",
+      "strength": "150 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09CA04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LOSHCT",
+      "generic_name": "Losartan/Hydrochlorothiazide",
+      "strength": "50/12.5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C09DA01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "NIFE10",
+      "generic_name": "Nifedipine",
+      "strength": "10 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08CA05",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FELO5",
+      "generic_name": "Felodipine",
+      "strength": "5 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08CA02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "MANI10",
+      "generic_name": "Manidipine",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08CA11",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DILT60",
+      "generic_name": "Diltiazem",
+      "strength": "60 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C08DB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ATEN100",
+      "generic_name": "Atenolol",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AB03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "METO100",
+      "generic_name": "Metoprolol tartrate",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AB02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "BISO5",
+      "generic_name": "Bisoprolol",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AB07",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CARV6",
+      "generic_name": "Carvedilol",
+      "strength": "6.25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C07AG02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "INDA15",
+      "generic_name": "Indapamide",
+      "strength": "1.5 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C03BA11",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DOXA2",
+      "generic_name": "Doxazosin",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C02CA04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "HYDRAL25",
+      "generic_name": "Hydralazine",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C02DB02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "METHYLD250",
+      "generic_name": "Methyldopa",
+      "strength": "250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C02AB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ISMN20",
+      "generic_name": "Isosorbide mononitrate",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C01DA14",
+      "reorder_level": 100
+    },
+    {
+      "sku": "DIGO025",
+      "generic_name": "Digoxin",
+      "strength": "0.25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "C01AA05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "WARF2",
+      "generic_name": "Warfarin",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "หัวใจและความดันโลหิต",
+      "atc_code": "B01AA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "METF500",
+      "generic_name": "Metformin",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BA02",
+      "reorder_level": 500
+    },
+    {
+      "sku": "METF850",
+      "generic_name": "Metformin",
+      "strength": "850 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BA02",
+      "reorder_level": 300
+    },
+    {
+      "sku": "GLIP5",
+      "generic_name": "Glipizide",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB07",
+      "reorder_level": 200
+    },
+    {
+      "sku": "GLIC80",
+      "generic_name": "Gliclazide",
+      "strength": "80 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB09",
+      "reorder_level": 200
+    },
+    {
+      "sku": "GLIB5",
+      "generic_name": "Glibenclamide",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "METF1000",
+      "generic_name": "Metformin",
+      "strength": "1,000 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BA02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "METF500XR",
+      "generic_name": "Metformin",
+      "strength": "500 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BA02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "GLIP10",
+      "generic_name": "Glipizide",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB07",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GLIC30MR",
+      "generic_name": "Gliclazide",
+      "strength": "30 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB09",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GLIM1",
+      "generic_name": "Glimepiride",
+      "strength": "1 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB12",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GLIM2",
+      "generic_name": "Glimepiride",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BB12",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PIO15",
+      "generic_name": "Pioglitazone",
+      "strength": "15 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BG03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PIO30",
+      "generic_name": "Pioglitazone",
+      "strength": "30 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BG03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "SITA100",
+      "generic_name": "Sitagliptin",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BH01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "VILDA50",
+      "generic_name": "Vildagliptin",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BH02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LINA5",
+      "generic_name": "Linagliptin",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BH05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "SITAMET",
+      "generic_name": "Sitagliptin/Metformin",
+      "strength": "50/500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BD07",
+      "reorder_level": 60
+    },
+    {
+      "sku": "EMPA10",
+      "generic_name": "Empagliflozin",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BK03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DAPA10",
+      "generic_name": "Dapagliflozin",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BK01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ACAR50",
+      "generic_name": "Acarbose",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "เบาหวาน",
+      "atc_code": "A10BF01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "SIMVA20",
+      "generic_name": "Simvastatin",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "ATOR20",
+      "generic_name": "Atorvastatin",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA05",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ROSU10",
+      "generic_name": "Rosuvastatin",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA07",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GEMF600",
+      "generic_name": "Gemfibrozil",
+      "strength": "600 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AB04",
+      "reorder_level": 100
+    },
+    {
+      "sku": "SIMVA10",
+      "generic_name": "Simvastatin",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "SIMVA40",
+      "generic_name": "Simvastatin",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ATOR10",
+      "generic_name": "Atorvastatin",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA05",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ATOR40",
+      "generic_name": "Atorvastatin",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA05",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ROSU5",
+      "generic_name": "Rosuvastatin",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA07",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ROSU20",
+      "generic_name": "Rosuvastatin",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA07",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PRAVA20",
+      "generic_name": "Pravastatin",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PITA2",
+      "generic_name": "Pitavastatin",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AA08",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FENO160",
+      "generic_name": "Fenofibrate",
+      "strength": "160 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AB05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "EZET10",
+      "generic_name": "Ezetimibe",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ไขมันในเลือด",
+      "atc_code": "C10AX09",
+      "reorder_level": 60
+    },
+    {
+      "sku": "OMEP20",
+      "generic_name": "Omeprazole",
+      "strength": "20 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "PANTO40",
+      "generic_name": "Pantoprazole",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FAMO20",
+      "generic_name": "Famotidine",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "SIMET80",
+      "generic_name": "Simethicone",
+      "strength": "80 mg",
+      "dosage_form": "chewable tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03AX13",
+      "reorder_level": 100
+    },
+    {
+      "sku": "DOMP10",
+      "generic_name": "Domperidone",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03FA03",
+      "reorder_level": 200
+    },
+    {
+      "sku": "METOC10",
+      "generic_name": "Metoclopramide",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03FA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "HYOS10",
+      "generic_name": "Hyoscine butylbromide",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03BB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LOPE2",
+      "generic_name": "Loperamide",
+      "strength": "2 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A07DA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CHAR250",
+      "generic_name": "Activated charcoal",
+      "strength": "250 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A07BA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "BISA5",
+      "generic_name": "Bisacodyl",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A06AB02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "SENNA75",
+      "generic_name": "Sennosides",
+      "strength": "7.5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A06AB06",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LACTU-S",
+      "generic_name": "Lactulose",
+      "strength": "10 g/15 mL, 60 mL",
+      "dosage_form": "oral solution",
+      "unit": "bottle",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A06AD11",
+      "reorder_level": 10
+    },
+    {
+      "sku": "OMEP40",
+      "generic_name": "Omeprazole",
+      "strength": "40 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LANSO30",
+      "generic_name": "Lansoprazole",
+      "strength": "30 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ESOME20",
+      "generic_name": "Esomeprazole",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "RABE20",
+      "generic_name": "Rabeprazole",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BC04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FAMO40",
+      "generic_name": "Famotidine",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ALMG-S",
+      "generic_name": "Aluminium hydroxide/Magnesium hydroxide",
+      "strength": "300/150 mg/5 mL, 240 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02AD01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "ALMG-T",
+      "generic_name": "Aluminium hydroxide/Magnesium hydroxide",
+      "strength": "300/150 mg",
+      "dosage_form": "chewable tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02AD01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "ALGI-S",
+      "generic_name": "Sodium alginate/Sodium bicarbonate/Calcium carbonate",
+      "strength": "500/267/160 mg/10 mL, 150 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BX13",
+      "reorder_level": 10
+    },
+    {
+      "sku": "SUCRA1",
+      "generic_name": "Sucralfate",
+      "strength": "1 g",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A02BX02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "DOMP-S",
+      "generic_name": "Domperidone",
+      "strength": "1 mg/mL, 30 mL",
+      "dosage_form": "suspension",
+      "unit": "bottle",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03FA03",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ITOP50",
+      "generic_name": "Itopride",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03FA07",
+      "reorder_level": 60
+    },
+    {
+      "sku": "MEBEV135",
+      "generic_name": "Mebeverine",
+      "strength": "135 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A03AA04",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ONDA4",
+      "generic_name": "Ondansetron",
+      "strength": "4 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A04AA01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "DIMEN50",
+      "generic_name": "Dimenhydrinate",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "R06AA11",
+      "reorder_level": 100
+    },
+    {
+      "sku": "RACE100",
+      "generic_name": "Racecadotril",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A07XA04",
+      "reorder_level": 30
+    },
+    {
+      "sku": "SMEC3",
+      "generic_name": "Diosmectite",
+      "strength": "3 g",
+      "dosage_form": "powder for oral suspension",
+      "unit": "sachet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A07BC05",
+      "reorder_level": 50
+    },
+    {
+      "sku": "PEG10",
+      "generic_name": "Macrogol 4000",
+      "strength": "10 g",
+      "dosage_form": "powder for oral solution",
+      "unit": "sachet",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A06AD15",
+      "reorder_level": 30
+    },
+    {
+      "sku": "GLYC-SUP",
+      "generic_name": "Glycerol",
+      "strength": "2 g",
+      "dosage_form": "suppository",
+      "unit": "suppository",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A06AX01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "URSO250",
+      "generic_name": "Ursodeoxycholic acid",
+      "strength": "250 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินอาหาร",
+      "atc_code": "A05AA02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "CETI10",
+      "generic_name": "Cetirizine",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AE07",
+      "reorder_level": 300
+    },
+    {
+      "sku": "LORA10",
+      "generic_name": "Loratadine",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX13",
+      "reorder_level": 300
+    },
+    {
+      "sku": "CPM4",
+      "generic_name": "Chlorpheniramine",
+      "strength": "4 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AB04",
+      "reorder_level": 500
+    },
+    {
+      "sku": "FEXO180",
+      "generic_name": "Fexofenadine",
+      "strength": "180 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX26",
+      "reorder_level": 100
+    },
+    {
+      "sku": "HYDROX10",
+      "generic_name": "Hydroxyzine",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "N05BB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "CETI-S",
+      "generic_name": "Cetirizine",
+      "strength": "5 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "แก้แพ้",
+      "atc_code": "R06AE07",
+      "reorder_level": 10
+    },
+    {
+      "sku": "LEVOCET5",
+      "generic_name": "Levocetirizine",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AE09",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LORA-S",
+      "generic_name": "Loratadine",
+      "strength": "5 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX13",
+      "reorder_level": 10
+    },
+    {
+      "sku": "DESLO5",
+      "generic_name": "Desloratadine",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX27",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FEXO60",
+      "generic_name": "Fexofenadine",
+      "strength": "60 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX26",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FEXO120",
+      "generic_name": "Fexofenadine",
+      "strength": "120 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX26",
+      "reorder_level": 60
+    },
+    {
+      "sku": "BILA20",
+      "generic_name": "Bilastine",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX29",
+      "reorder_level": 30
+    },
+    {
+      "sku": "CPM-S",
+      "generic_name": "Chlorpheniramine",
+      "strength": "2 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "แก้แพ้",
+      "atc_code": "R06AB04",
+      "reorder_level": 20
+    },
+    {
+      "sku": "DIPH25",
+      "generic_name": "Diphenhydramine",
+      "strength": "25 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "แก้แพ้",
+      "atc_code": "R06AA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "HYDROX25",
+      "generic_name": "Hydroxyzine",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "N05BB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "KETOT1",
+      "generic_name": "Ketotifen",
+      "strength": "1 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "แก้แพ้",
+      "atc_code": "R06AX17",
+      "reorder_level": 60
+    },
+    {
+      "sku": "SALB-INH",
+      "generic_name": "Salbutamol",
+      "strength": "100 mcg/dose, 200 doses",
+      "dosage_form": "inhaler",
+      "unit": "inhaler",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03AC02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "BUDE-INH",
+      "generic_name": "Budesonide",
+      "strength": "200 mcg/dose, 200 doses",
+      "dosage_form": "inhaler",
+      "unit": "inhaler",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03BA02",
+      "reorder_level": 5
+    },
+    {
+      "sku": "MONT10",
+      "generic_name": "Montelukast",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03DC03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DEXTRO-S",
+      "generic_name": "Dextromethorphan",
+      "strength": "15 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05DA09",
+      "reorder_level": 20
+    },
+    {
+      "sku": "BROM8",
+      "generic_name": "Bromhexine",
+      "strength": "8 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "AMBRO30",
+      "generic_name": "Ambroxol",
+      "strength": "30 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB06",
+      "reorder_level": 200
+    },
+    {
+      "sku": "GUAI-S",
+      "generic_name": "Guaifenesin",
+      "strength": "100 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CA03",
+      "reorder_level": 10
+    },
+    {
+      "sku": "NAC200",
+      "generic_name": "Acetylcysteine",
+      "strength": "200 mg",
+      "dosage_form": "powder for oral solution",
+      "unit": "sachet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FLUTI-NS",
+      "generic_name": "Fluticasone propionate",
+      "strength": "50 mcg/spray, 120 sprays",
+      "dosage_form": "nasal spray",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R01AD08",
+      "reorder_level": 5
+    },
+    {
+      "sku": "SALB-S",
+      "generic_name": "Salbutamol",
+      "strength": "2 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03CC02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "SALB-NEB",
+      "generic_name": "Salbutamol",
+      "strength": "2.5 mg/2.5 mL",
+      "dosage_form": "nebuliser solution",
+      "unit": "nebule",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03AC02",
+      "reorder_level": 20
+    },
+    {
+      "sku": "SERFLU250",
+      "generic_name": "Salmeterol/Fluticasone propionate",
+      "strength": "25/250 mcg/dose, 120 doses",
+      "dosage_form": "inhaler",
+      "unit": "inhaler",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03AK06",
+      "reorder_level": 5
+    },
+    {
+      "sku": "BUDFOR160",
+      "generic_name": "Budesonide/Formoterol",
+      "strength": "160/4.5 mcg/dose, 120 doses",
+      "dosage_form": "inhaler",
+      "unit": "inhaler",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03AK07",
+      "reorder_level": 5
+    },
+    {
+      "sku": "IPRA-INH",
+      "generic_name": "Ipratropium bromide",
+      "strength": "20 mcg/dose, 200 doses",
+      "dosage_form": "inhaler",
+      "unit": "inhaler",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03BB01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "THEO200",
+      "generic_name": "Theophylline",
+      "strength": "200 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03DA04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "MONT4",
+      "generic_name": "Montelukast",
+      "strength": "4 mg",
+      "dosage_form": "chewable tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03DC03",
+      "reorder_level": 30
+    },
+    {
+      "sku": "MONT5",
+      "generic_name": "Montelukast",
+      "strength": "5 mg",
+      "dosage_form": "chewable tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R03DC03",
+      "reorder_level": 30
+    },
+    {
+      "sku": "DEXTRO15",
+      "generic_name": "Dextromethorphan",
+      "strength": "15 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05DA09",
+      "reorder_level": 200
+    },
+    {
+      "sku": "BROM-S",
+      "generic_name": "Bromhexine",
+      "strength": "4 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "AMBRO-S",
+      "generic_name": "Ambroxol",
+      "strength": "15 mg/5 mL, 60 mL",
+      "dosage_form": "syrup",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB06",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CARBO375",
+      "generic_name": "Carbocisteine",
+      "strength": "375 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "NAC600",
+      "generic_name": "Acetylcysteine",
+      "strength": "600 mg",
+      "dosage_form": "effervescent tablet",
+      "unit": "tablet",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R05CB01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "MOME-NS",
+      "generic_name": "Mometasone furoate",
+      "strength": "50 mcg/spray, 140 sprays",
+      "dosage_form": "nasal spray",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R01AD09",
+      "reorder_level": 5
+    },
+    {
+      "sku": "OXYM-NS",
+      "generic_name": "Oxymetazoline",
+      "strength": "0.05%, 10 mL",
+      "dosage_form": "nasal spray",
+      "unit": "bottle",
+      "category": "ทางเดินหายใจ",
+      "atc_code": "R01AA05",
+      "reorder_level": 10
+    },
+    {
+      "sku": "HC1-C",
+      "generic_name": "Hydrocortisone",
+      "strength": "1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AA02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "BETA-C",
+      "generic_name": "Betamethasone valerate",
+      "strength": "0.1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AC01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "TA-C",
+      "generic_name": "Triamcinolone acetonide",
+      "strength": "0.1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AB09",
+      "reorder_level": 10
+    },
+    {
+      "sku": "MUPI-O",
+      "generic_name": "Mupirocin",
+      "strength": "2%, 15 g",
+      "dosage_form": "ointment",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D06AX09",
+      "reorder_level": 10
+    },
+    {
+      "sku": "PVP-I",
+      "generic_name": "Povidone-iodine",
+      "strength": "10%, 30 mL",
+      "dosage_form": "solution",
+      "unit": "bottle",
+      "category": "ผิวหนัง",
+      "atc_code": "D08AG02",
+      "reorder_level": 20
+    },
+    {
+      "sku": "BETA-O",
+      "generic_name": "Betamethasone valerate",
+      "strength": "0.1%, 15 g",
+      "dosage_form": "ointment",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AC01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CLOB-C",
+      "generic_name": "Clobetasol propionate",
+      "strength": "0.05%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AD01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "MOME-C",
+      "generic_name": "Mometasone furoate",
+      "strength": "0.1%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D07AC13",
+      "reorder_level": 10
+    },
+    {
+      "sku": "FUSI-C",
+      "generic_name": "Fusidic acid",
+      "strength": "2%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D06AX01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "SILV-C",
+      "generic_name": "Silver sulfadiazine",
+      "strength": "1%, 25 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D06BA01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "UREA-C",
+      "generic_name": "Urea",
+      "strength": "10%, 100 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D02AE01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "BPO5-G",
+      "generic_name": "Benzoyl peroxide",
+      "strength": "5%, 15 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D10AE01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ADAP-G",
+      "generic_name": "Adapalene",
+      "strength": "0.1%, 15 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D10AD03",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CLIN-G",
+      "generic_name": "Clindamycin",
+      "strength": "1%, 15 g",
+      "dosage_form": "gel",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D10AF01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "TRET-C",
+      "generic_name": "Tretinoin",
+      "strength": "0.025%, 15 g",
+      "dosage_form": "cream",
+      "unit": "tube",
+      "category": "ผิวหนัง",
+      "atc_code": "D10AD01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CHX-S",
+      "generic_name": "Chlorhexidine gluconate",
+      "strength": "4%, 250 mL",
+      "dosage_form": "solution",
+      "unit": "bottle",
+      "category": "ผิวหนัง",
+      "atc_code": "D08AC02",
+      "reorder_level": 10
+    },
+    {
+      "sku": "ALC70",
+      "generic_name": "Ethanol",
+      "strength": "70%, 450 mL",
+      "dosage_form": "solution",
+      "unit": "bottle",
+      "category": "ผิวหนัง",
+      "atc_code": "D08AX08",
+      "reorder_level": 20
+    },
+    {
+      "sku": "H2O2",
+      "generic_name": "Hydrogen peroxide",
+      "strength": "3%, 450 mL",
+      "dosage_form": "solution",
+      "unit": "bottle",
+      "category": "ผิวหนัง",
+      "atc_code": "D08AX01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "CAP-ED",
+      "generic_name": "Chloramphenicol",
+      "strength": "0.5%, 10 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01AA01",
+      "reorder_level": 10
+    },
+    {
+      "sku": "TOBRA-ED",
+      "generic_name": "Tobramycin",
+      "strength": "0.3%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01AA12",
+      "reorder_level": 5
+    },
+    {
+      "sku": "OFLO-EAR",
+      "generic_name": "Ofloxacin",
+      "strength": "0.3%, 5 mL",
+      "dosage_form": "ear drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S02AA16",
+      "reorder_level": 5
+    },
+    {
+      "sku": "CAP-EO",
+      "generic_name": "Chloramphenicol",
+      "strength": "1%, 3.5 g",
+      "dosage_form": "eye ointment",
+      "unit": "tube",
+      "category": "ตาและหู",
+      "atc_code": "S01AA01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "TOBRA-EO",
+      "generic_name": "Tobramycin",
+      "strength": "0.3%, 3.5 g",
+      "dosage_form": "eye ointment",
+      "unit": "tube",
+      "category": "ตาและหู",
+      "atc_code": "S01AA12",
+      "reorder_level": 5
+    },
+    {
+      "sku": "TOBDEX-ED",
+      "generic_name": "Tobramycin/Dexamethasone",
+      "strength": "0.3%/0.1%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01CA01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "OFLO-ED",
+      "generic_name": "Ofloxacin",
+      "strength": "0.3%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01AE01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "LEVO-ED",
+      "generic_name": "Levofloxacin",
+      "strength": "0.5%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01AE05",
+      "reorder_level": 5
+    },
+    {
+      "sku": "MOXI-ED",
+      "generic_name": "Moxifloxacin",
+      "strength": "0.5%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01AE07",
+      "reorder_level": 5
+    },
+    {
+      "sku": "HPMC-ED",
+      "generic_name": "Hypromellose",
+      "strength": "0.3%, 10 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01KA02",
+      "reorder_level": 20
+    },
+    {
+      "sku": "NAPHA-ED",
+      "generic_name": "Naphazoline/Pheniramine",
+      "strength": "0.025%/0.3%, 15 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01GA51",
+      "reorder_level": 10
+    },
+    {
+      "sku": "KETOT-ED",
+      "generic_name": "Ketotifen",
+      "strength": "0.025%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01GX08",
+      "reorder_level": 5
+    },
+    {
+      "sku": "OLOP-ED",
+      "generic_name": "Olopatadine",
+      "strength": "0.1%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01GX09",
+      "reorder_level": 5
+    },
+    {
+      "sku": "TIMO-ED",
+      "generic_name": "Timolol",
+      "strength": "0.5%, 5 mL",
+      "dosage_form": "eye drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S01ED01",
+      "reorder_level": 5
+    },
+    {
+      "sku": "CIPRO-EAR",
+      "generic_name": "Ciprofloxacin",
+      "strength": "0.3%, 5 mL",
+      "dosage_form": "ear drops",
+      "unit": "bottle",
+      "category": "ตาและหู",
+      "atc_code": "S02AA15",
+      "reorder_level": 5
+    },
+    {
+      "sku": "VITC500",
+      "generic_name": "Ascorbic acid",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11GA01",
+      "reorder_level": 300
+    },
+    {
+      "sku": "FOLIC5",
+      "generic_name": "Folic acid",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "B03BB01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "FESO4",
+      "generic_name": "Ferrous sulfate",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "B03AA07",
+      "reorder_level": 300
+    },
+    {
+      "sku": "CACO3",
+      "generic_name": "Calcium carbonate",
+      "strength": "1,250 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A12AA04",
+      "reorder_level": 200
+    },
+    {
+      "sku": "VITB1",
+      "generic_name": "Thiamine",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11DA01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "VITC1000",
+      "generic_name": "Ascorbic acid",
+      "strength": "1,000 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11GA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "VITB6",
+      "generic_name": "Pyridoxine",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11HA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "MECO500",
+      "generic_name": "Mecobalamin",
+      "strength": "500 mcg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "B03BA05",
+      "reorder_level": 100
+    },
+    {
+      "sku": "VITD20K",
+      "generic_name": "Ergocalciferol",
+      "strength": "20,000 IU",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11CC01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "VITD3-1K",
+      "generic_name": "Colecalciferol",
+      "strength": "1,000 IU",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11CC05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "VITE400",
+      "generic_name": "Tocopherol",
+      "strength": "400 IU",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A11HA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FEFUM200",
+      "generic_name": "Ferrous fumarate",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "B03AA02",
+      "reorder_level": 200
+    },
+    {
+      "sku": "CACO3-1500",
+      "generic_name": "Calcium carbonate",
+      "strength": "1,500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A12AA04",
+      "reorder_level": 200
+    },
+    {
+      "sku": "ZINC220",
+      "generic_name": "Zinc sulfate",
+      "strength": "220 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "วิตามินและเกลือแร่",
+      "atc_code": "A12CB01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AMIT10",
+      "generic_name": "Amitriptyline",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AA09",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FLUN5",
+      "generic_name": "Flunarizine",
+      "strength": "5 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "BETAH6",
+      "generic_name": "Betahistine",
+      "strength": "6 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GABA300",
+      "generic_name": "Gabapentin",
+      "strength": "300 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N02BF01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FLUOX20",
+      "generic_name": "Fluoxetine",
+      "strength": "20 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AB03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "SERT50",
+      "generic_name": "Sertraline",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AB06",
+      "reorder_level": 60
+    },
+    {
+      "sku": "AMIT25",
+      "generic_name": "Amitriptyline",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AA09",
+      "reorder_level": 100
+    },
+    {
+      "sku": "NORTRI10",
+      "generic_name": "Nortriptyline",
+      "strength": "10 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AA10",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FLUN10",
+      "generic_name": "Flunarizine",
+      "strength": "10 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CINN25",
+      "generic_name": "Cinnarizine",
+      "strength": "25 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "BETAH12",
+      "generic_name": "Betahistine",
+      "strength": "12 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "BETAH24",
+      "generic_name": "Betahistine",
+      "strength": "24 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N07CA01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "GABA100",
+      "generic_name": "Gabapentin",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N02BF01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PREG75",
+      "generic_name": "Pregabalin",
+      "strength": "75 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N02BF02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ESCIT10",
+      "generic_name": "Escitalopram",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AB10",
+      "reorder_level": 60
+    },
+    {
+      "sku": "TRAZ50",
+      "generic_name": "Trazodone",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06AX05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "CARBAM200",
+      "generic_name": "Carbamazepine",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N03AF01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PHENY100",
+      "generic_name": "Phenytoin",
+      "strength": "100 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ระบบประสาท",
+      "atc_code": "N03AB02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "VALP500",
+      "generic_name": "Sodium valproate",
+      "strength": "500 mg",
+      "dosage_form": "enteric-coated tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N03AG01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LEVET500",
+      "generic_name": "Levetiracetam",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N03AX14",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ERGO1",
+      "generic_name": "Ergotamine/Caffeine",
+      "strength": "1/100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N02CA52",
+      "reorder_level": 30
+    },
+    {
+      "sku": "SUMA50",
+      "generic_name": "Sumatriptan",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N02CC01",
+      "reorder_level": 20
+    },
+    {
+      "sku": "DONEP5",
+      "generic_name": "Donepezil",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ระบบประสาท",
+      "atc_code": "N06DA02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "METHO500",
+      "generic_name": "Methocarbamol",
+      "strength": "500 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BA03",
+      "reorder_level": 100
+    },
+    {
+      "sku": "ORPH-P",
+      "generic_name": "Orphenadrine/Paracetamol",
+      "strength": "35/450 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BC51",
+      "reorder_level": 100
+    },
+    {
+      "sku": "COLCH06",
+      "generic_name": "Colchicine",
+      "strength": "0.6 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M04AC01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ALLO100",
+      "generic_name": "Allopurinol",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M04AA01",
+      "reorder_level": 200
+    },
+    {
+      "sku": "TOLP50",
+      "generic_name": "Tolperisone",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BX04",
+      "reorder_level": 100
+    },
+    {
+      "sku": "TOLP150",
+      "generic_name": "Tolperisone",
+      "strength": "150 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BX04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "EPER50",
+      "generic_name": "Eperisone",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BX09",
+      "reorder_level": 100
+    },
+    {
+      "sku": "BACLO10",
+      "generic_name": "Baclofen",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BX01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "TIZA2",
+      "generic_name": "Tizanidine",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M03BX02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ALLO300",
+      "generic_name": "Allopurinol",
+      "strength": "300 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M04AA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "FEBU40",
+      "generic_name": "Febuxostat",
+      "strength": "40 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M04AA03",
+      "reorder_level": 30
+    },
+    {
+      "sku": "FEBU80",
+      "generic_name": "Febuxostat",
+      "strength": "80 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M04AA03",
+      "reorder_level": 30
+    },
+    {
+      "sku": "GLUCO500",
+      "generic_name": "Glucosamine sulfate",
+      "strength": "500 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M01AX05",
+      "reorder_level": 100
+    },
+    {
+      "sku": "GLUCO1500",
+      "generic_name": "Glucosamine sulfate",
+      "strength": "1,500 mg",
+      "dosage_form": "powder for oral solution",
+      "unit": "sachet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M01AX05",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DIACER50",
+      "generic_name": "Diacerein",
+      "strength": "50 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M01AX21",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ALEND70",
+      "generic_name": "Alendronic acid",
+      "strength": "70 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ข้อและกล้ามเนื้อ",
+      "atc_code": "M05BA04",
+      "reorder_level": 20
+    },
+    {
+      "sku": "LT4-25",
+      "generic_name": "Levothyroxine sodium",
+      "strength": "25 mcg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H03AA01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "LT4-50",
+      "generic_name": "Levothyroxine sodium",
+      "strength": "50 mcg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H03AA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "LT4-100",
+      "generic_name": "Levothyroxine sodium",
+      "strength": "100 mcg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H03AA01",
+      "reorder_level": 100
+    },
+    {
+      "sku": "MMI5",
+      "generic_name": "Methimazole",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H03BB02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PTU50",
+      "generic_name": "Propylthiouracil",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H03BA02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "PRED5",
+      "generic_name": "Prednisolone",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H02AB06",
+      "reorder_level": 200
+    },
+    {
+      "sku": "DEXA05",
+      "generic_name": "Dexamethasone",
+      "strength": "0.5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H02AB02",
+      "reorder_level": 100
+    },
+    {
+      "sku": "MEDROL4",
+      "generic_name": "Methylprednisolone",
+      "strength": "4 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "H02AB04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "OC-LNG",
+      "generic_name": "Levonorgestrel/Ethinylestradiol",
+      "strength": "0.15/0.03 mg, 21 tablets",
+      "dosage_form": "tablet",
+      "unit": "pack",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03AA07",
+      "reorder_level": 20
+    },
+    {
+      "sku": "OC-DSG",
+      "generic_name": "Desogestrel/Ethinylestradiol",
+      "strength": "0.15/0.03 mg, 21 tablets",
+      "dosage_form": "tablet",
+      "unit": "pack",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03AA09",
+      "reorder_level": 20
+    },
+    {
+      "sku": "OC-DRSP",
+      "generic_name": "Drospirenone/Ethinylestradiol",
+      "strength": "3/0.03 mg, 21 tablets",
+      "dosage_form": "tablet",
+      "unit": "pack",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03AA12",
+      "reorder_level": 20
+    },
+    {
+      "sku": "EC-LNG",
+      "generic_name": "Levonorgestrel",
+      "strength": "1.5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03AD01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "NORETH5",
+      "generic_name": "Norethisterone",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03DC02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "MPA10",
+      "generic_name": "Medroxyprogesterone acetate",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03DA02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DYDRO10",
+      "generic_name": "Dydrogesterone",
+      "strength": "10 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03DB01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "E2V1",
+      "generic_name": "Estradiol valerate",
+      "strength": "1 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ฮอร์โมนและต่อมไร้ท่อ",
+      "atc_code": "G03CA03",
+      "reorder_level": 30
+    },
+    {
+      "sku": "TAMS04",
+      "generic_name": "Tamsulosin",
+      "strength": "0.4 mg",
+      "dosage_form": "extended-release capsule",
+      "unit": "capsule",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04CA02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "ALFU10",
+      "generic_name": "Alfuzosin",
+      "strength": "10 mg",
+      "dosage_form": "extended-release tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04CA01",
+      "reorder_level": 30
+    },
+    {
+      "sku": "TERA2",
+      "generic_name": "Terazosin",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04CA03",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DOXA4",
+      "generic_name": "Doxazosin",
+      "strength": "4 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "C02CA04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "FINA5",
+      "generic_name": "Finasteride",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04CB01",
+      "reorder_level": 60
+    },
+    {
+      "sku": "DUTA05",
+      "generic_name": "Dutasteride",
+      "strength": "0.5 mg",
+      "dosage_form": "capsule",
+      "unit": "capsule",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04CB02",
+      "reorder_level": 30
+    },
+    {
+      "sku": "OXYB5",
+      "generic_name": "Oxybutynin",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BD04",
+      "reorder_level": 60
+    },
+    {
+      "sku": "TOLT2",
+      "generic_name": "Tolterodine",
+      "strength": "2 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BD07",
+      "reorder_level": 30
+    },
+    {
+      "sku": "SOLI5",
+      "generic_name": "Solifenacin",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BD08",
+      "reorder_level": 30
+    },
+    {
+      "sku": "FLAV200",
+      "generic_name": "Flavoxate",
+      "strength": "200 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BD02",
+      "reorder_level": 60
+    },
+    {
+      "sku": "PHENAZ100",
+      "generic_name": "Phenazopyridine",
+      "strength": "100 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BX06",
+      "reorder_level": 30
+    },
+    {
+      "sku": "SILD50",
+      "generic_name": "Sildenafil",
+      "strength": "50 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BE03",
+      "reorder_level": 20
+    },
+    {
+      "sku": "TADA5",
+      "generic_name": "Tadalafil",
+      "strength": "5 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BE08",
+      "reorder_level": 20
+    },
+    {
+      "sku": "TADA20",
+      "generic_name": "Tadalafil",
+      "strength": "20 mg",
+      "dosage_form": "tablet",
+      "unit": "tablet",
+      "category": "ทางเดินปัสสาวะและต่อมลูกหมาก",
+      "atc_code": "G04BE08",
+      "reorder_level": 20
+    }
+  ]
+}

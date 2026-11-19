@@ -1,0 +1,479 @@
+{
+  "meta": {
+    "title": "ยาคงคลังของร้านยาจำลอง (รายล็อต)",
+    "as_of": "2026-11-02",
+    "note": "ข้อมูลจำลองเพื่อการเรียนเท่านั้น qty_on_hand คือยอดคงเหลือ ณ วัน as_of"
+  },
+  "items": [
+    {
+      "stock_id": "S001",
+      "sku": "SALB-INH",
+      "lot": "SB2507",
+      "received_date": "2026-07-17",
+      "expiry": "2028-01-31",
+      "qty_on_hand": 12,
+      "unit_cost": 95.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S002",
+      "sku": "AMOX125S",
+      "lot": "AS2410",
+      "received_date": "2025-10-01",
+      "expiry": "2026-10-20",
+      "qty_on_hand": 0,
+      "unit_cost": 32.0,
+      "status": "written_off"
+    },
+    {
+      "stock_id": "S003",
+      "sku": "CAP-ED",
+      "lot": "CA2508",
+      "received_date": "2026-08-11",
+      "expiry": "2027-08-31",
+      "qty_on_hand": 14,
+      "unit_cost": 45.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S004",
+      "sku": "CPM4",
+      "lot": "CP2408",
+      "received_date": "2024-09-01",
+      "expiry": "2026-08-31",
+      "qty_on_hand": 0,
+      "unit_cost": 0.1,
+      "status": "written_off"
+    },
+    {
+      "stock_id": "S005",
+      "sku": "SIMVA20",
+      "lot": "SV2504",
+      "received_date": "2026-04-25",
+      "expiry": "2027-12-31",
+      "qty_on_hand": 410,
+      "unit_cost": 0.65,
+      "status": "active"
+    },
+    {
+      "stock_id": "S006",
+      "sku": "LOSAR50",
+      "lot": "LS2509",
+      "received_date": "2026-09-22",
+      "expiry": "2028-03-31",
+      "qty_on_hand": 200,
+      "unit_cost": 1.2,
+      "status": "active"
+    },
+    {
+      "stock_id": "S007",
+      "sku": "IBU400",
+      "lot": "IB2509",
+      "received_date": "2026-09-14",
+      "expiry": "2026-03-31",
+      "qty_on_hand": 200,
+      "unit_cost": 0.9,
+      "status": "quarantine"
+    },
+    {
+      "stock_id": "S008",
+      "sku": "PARA120S",
+      "lot": "PS2410",
+      "received_date": "2025-10-20",
+      "expiry": "2026-12-31",
+      "qty_on_hand": 6,
+      "unit_cost": 17.5,
+      "status": "active"
+    },
+    {
+      "stock_id": "S009",
+      "sku": "PARA500",
+      "lot": "PA2509",
+      "received_date": "2026-09-12",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 600,
+      "unit_cost": 0.45,
+      "status": "active"
+    },
+    {
+      "stock_id": "S010",
+      "sku": "LOPE2",
+      "lot": "LP2505",
+      "received_date": "2026-05-30",
+      "expiry": "2028-04-30",
+      "qty_on_hand": 0,
+      "unit_cost": 0.75,
+      "status": "active"
+    },
+    {
+      "stock_id": "S011",
+      "sku": "CPM4",
+      "lot": "CP2507",
+      "received_date": "2026-07-09",
+      "expiry": "2028-06-30",
+      "qty_on_hand": 650,
+      "unit_cost": 0.1,
+      "status": "active"
+    },
+    {
+      "stock_id": "S012",
+      "sku": "DEXTRO-S",
+      "lot": "DX2411",
+      "received_date": "2025-11-05",
+      "expiry": "2027-01-10",
+      "qty_on_hand": 9,
+      "unit_cost": 25.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S013",
+      "sku": "CLOTRI-C",
+      "lot": "CL2506",
+      "received_date": "2026-06-11",
+      "expiry": "2028-05-31",
+      "qty_on_hand": 24,
+      "unit_cost": 28.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S014",
+      "sku": "LOPE2",
+      "lot": "LP2509",
+      "received_date": "2026-09-29",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 140,
+      "unit_cost": 0.75,
+      "status": "active"
+    },
+    {
+      "stock_id": "S015",
+      "sku": "LORA10",
+      "lot": "LR2505",
+      "received_date": "2026-05-12",
+      "expiry": "2028-04-30",
+      "qty_on_hand": 310,
+      "unit_cost": 0.45,
+      "status": "active"
+    },
+    {
+      "stock_id": "S016",
+      "sku": "DEXTRO-S",
+      "lot": "DX2508",
+      "received_date": "2026-08-26",
+      "expiry": "2028-02-29",
+      "qty_on_hand": 15,
+      "unit_cost": 25.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S017",
+      "sku": "METRO400",
+      "lot": "MT2507",
+      "received_date": "2026-07-03",
+      "expiry": "2028-06-30",
+      "qty_on_hand": 160,
+      "unit_cost": 0.6,
+      "status": "active"
+    },
+    {
+      "stock_id": "S018",
+      "sku": "CEPH500",
+      "lot": "CE2505",
+      "received_date": "2026-05-09",
+      "expiry": "2027-11-30",
+      "qty_on_hand": 230,
+      "unit_cost": 2.1,
+      "status": "active"
+    },
+    {
+      "stock_id": "S019",
+      "sku": "PVP-I",
+      "lot": "PV2504",
+      "received_date": "2026-04-07",
+      "expiry": "2028-03-31",
+      "qty_on_hand": 26,
+      "unit_cost": 30.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S020",
+      "sku": "HC1-C",
+      "lot": "HC2506",
+      "received_date": "2026-06-19",
+      "expiry": "2028-05-31",
+      "qty_on_hand": 16,
+      "unit_cost": 22.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S021",
+      "sku": "AMOX125S",
+      "lot": "AS2508",
+      "received_date": "2026-08-14",
+      "expiry": "2027-08-31",
+      "qty_on_hand": 12,
+      "unit_cost": 33.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S022",
+      "sku": "SIMVA20",
+      "lot": "SV2509",
+      "received_date": "2026-09-26",
+      "expiry": null,
+      "qty_on_hand": 180,
+      "unit_cost": 0.65,
+      "status": "quarantine"
+    },
+    {
+      "stock_id": "S023",
+      "sku": "AMOX500",
+      "lot": "AX2504",
+      "received_date": "2026-04-18",
+      "expiry": "2027-09-30",
+      "qty_on_hand": 180,
+      "unit_cost": 1.6,
+      "status": "active"
+    },
+    {
+      "stock_id": "S024",
+      "sku": "AMLO5",
+      "lot": "AM2502",
+      "received_date": "2026-02-14",
+      "expiry": "2027-01-31",
+      "qty_on_hand": 120,
+      "unit_cost": 0.8,
+      "status": "active"
+    },
+    {
+      "stock_id": "S025",
+      "sku": "AZI250",
+      "lot": "AZ2503",
+      "received_date": "2026-03-27",
+      "expiry": "2027-01-15",
+      "qty_on_hand": 48,
+      "unit_cost": 6.8,
+      "status": "active"
+    },
+    {
+      "stock_id": "S026",
+      "sku": "DOMP10",
+      "lot": "DP2509",
+      "received_date": "2026-09-30",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 100,
+      "unit_cost": 0.5,
+      "status": "active"
+    },
+    {
+      "stock_id": "S027",
+      "sku": "CETI10",
+      "lot": "CT2509",
+      "received_date": "2026-09-20",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 20,
+      "unit_cost": 0.4,
+      "status": "active"
+    },
+    {
+      "stock_id": "S028",
+      "sku": "DOMP10",
+      "lot": "DP2506",
+      "received_date": "2026-06-06",
+      "expiry": "2028-05-31",
+      "qty_on_hand": 220,
+      "unit_cost": 0.5,
+      "status": "active"
+    },
+    {
+      "stock_id": "S029",
+      "sku": "OMEP20",
+      "lot": "OM2411",
+      "received_date": "2025-11-28",
+      "expiry": "2026-12-15",
+      "qty_on_hand": 90,
+      "unit_cost": 0.9,
+      "status": "active"
+    },
+    {
+      "stock_id": "S030",
+      "sku": "AMOX500",
+      "lot": "AX2509",
+      "received_date": "2026-09-25",
+      "expiry": "2028-03-31",
+      "qty_on_hand": 240,
+      "unit_cost": 1.55,
+      "status": "active"
+    },
+    {
+      "stock_id": "S031",
+      "sku": "PARA120S",
+      "lot": "PS2506",
+      "received_date": "2026-06-05",
+      "expiry": "2027-05-31",
+      "qty_on_hand": 14,
+      "unit_cost": 18.0,
+      "status": "active"
+    },
+    {
+      "stock_id": "S032",
+      "sku": "LOSAR50",
+      "lot": "LS2505",
+      "received_date": "2026-05-16",
+      "expiry": "2027-12-31",
+      "qty_on_hand": 210,
+      "unit_cost": 1.2,
+      "status": "active"
+    },
+    {
+      "stock_id": "S033",
+      "sku": "METF500",
+      "lot": "MF5003",
+      "received_date": "2026-03-05",
+      "expiry": "2027-12-31",
+      "qty_on_hand": 380,
+      "unit_cost": 0.4,
+      "status": "active"
+    },
+    {
+      "stock_id": "S034",
+      "sku": "IBU400",
+      "lot": "IB2507",
+      "received_date": "2026-07-15",
+      "expiry": "2028-06-30",
+      "qty_on_hand": 380,
+      "unit_cost": 0.9,
+      "status": "active"
+    },
+    {
+      "stock_id": "S035",
+      "sku": "ENAL5",
+      "lot": "EN2504",
+      "received_date": "2026-04-02",
+      "expiry": "2027-10-31",
+      "qty_on_hand": 240,
+      "unit_cost": 0.55,
+      "status": "active"
+    },
+    {
+      "stock_id": "S036",
+      "sku": "AMLO5",
+      "lot": "AM2508",
+      "received_date": "2026-08-20",
+      "expiry": "2028-07-31",
+      "qty_on_hand": 350,
+      "unit_cost": 0.8,
+      "status": "active"
+    },
+    {
+      "stock_id": "S037",
+      "sku": "CAP-ED",
+      "lot": "CA2409",
+      "received_date": "2024-09-30",
+      "expiry": "2026-09-30",
+      "qty_on_hand": 0,
+      "unit_cost": 45.0,
+      "status": "written_off"
+    },
+    {
+      "stock_id": "S038",
+      "sku": "METF500",
+      "lot": "MF5009",
+      "received_date": "2026-09-18",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 500,
+      "unit_cost": 0.4,
+      "status": "active"
+    },
+    {
+      "stock_id": "S041",
+      "sku": "AMCLAV875",
+      "lot": "AC2506",
+      "received_date": "2026-06-22",
+      "expiry": "2027-12-31",
+      "qty_on_hand": 84,
+      "unit_cost": 9.5,
+      "status": "active"
+    },
+    {
+      "stock_id": "S042",
+      "sku": "VITC500",
+      "lot": "VC2502",
+      "received_date": "2026-02-11",
+      "expiry": "2027-01-25",
+      "qty_on_hand": 150,
+      "unit_cost": 0.35,
+      "status": "active"
+    },
+    {
+      "stock_id": "S043",
+      "sku": "OMEP20",
+      "lot": "OM2507",
+      "received_date": "2026-07-21",
+      "expiry": "2028-06-30",
+      "qty_on_hand": 300,
+      "unit_cost": 0.9,
+      "status": "active"
+    },
+    {
+      "stock_id": "S044",
+      "sku": "ASA81",
+      "lot": "AS8107",
+      "received_date": "2026-07-01",
+      "expiry": "2027-02-01",
+      "qty_on_hand": 330,
+      "unit_cost": 0.3,
+      "status": "active"
+    },
+    {
+      "stock_id": "S045",
+      "sku": "VITC500",
+      "lot": "VC2508",
+      "received_date": "2026-08-29",
+      "expiry": "2028-08-31",
+      "qty_on_hand": 260,
+      "unit_cost": 0.35,
+      "status": "active"
+    },
+    {
+      "stock_id": "S046",
+      "sku": "PARA500",
+      "lot": "PA2501",
+      "received_date": "2026-03-10",
+      "expiry": "2028-02-29",
+      "qty_on_hand": 420,
+      "unit_cost": 0.45,
+      "status": "active"
+    },
+    {
+      "stock_id": "S047",
+      "sku": "DICLO25",
+      "lot": "DC2502",
+      "received_date": "2026-02-20",
+      "expiry": "2027-12-31",
+      "qty_on_hand": 150,
+      "unit_cost": 0.35,
+      "status": "active"
+    },
+    {
+      "stock_id": "S048",
+      "sku": "CETI10",
+      "lot": "CT2503",
+      "received_date": "2026-03-15",
+      "expiry": "2028-02-29",
+      "qty_on_hand": 360,
+      "unit_cost": 0.4,
+      "status": "active"
+    },
+    {
+      "stock_id": "S049",
+      "sku": "MEFE250",
+      "lot": "MF2508",
+      "received_date": "2026-08-08",
+      "expiry": "2028-07-31",
+      "qty_on_hand": 260,
+      "unit_cost": 0.7,
+      "status": "active"
+    }
+  ]
+}
